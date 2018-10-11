@@ -1,8 +1,12 @@
-Name : Dorwin Liang
+#Welcome to my README.md  
 
-email : dorwinl3894@hstat.org
+* Name : Dorwin Liang  
 
-school : HSTAT 
+* email : dorwinl3894@hstat.org  
 
-Bio : Student in the SEP Program
+* school : HSTAT  
+
+* Bio : Student in the SEP Program  
+
+* Github : [link to my github](https://github.com/dorwinl3894?tab=repositories)  
 
