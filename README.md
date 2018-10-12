@@ -27,5 +27,6 @@
 console.log("Hello World!");
 ```
 
-<img src="logo.png"/>
+
+![HSTAT-logo](https://sites.google.com/a/hstat.org/josiahe2793sep10/_/rsrc/1442438872454/home/hstatSep-logo-small.png)
 
