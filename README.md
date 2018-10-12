@@ -27,5 +27,5 @@
 console.log("Hello World!");
 ```
 
-<img src="~/workspace/about-me/logo.png"/>
+<img src="logo.png"/>
 
