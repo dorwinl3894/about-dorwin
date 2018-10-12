@@ -8,6 +8,8 @@
 * **school** : HSTAT - High school of Telecommunications Arts and Technology
 
 * **Bio** : Student in the SEP Program  
+  * Class of 2020
+  * Learning Github, HTML, and CSS 2018-2019
 
 * **Google Site** : [<link to my Portfolio!>](https://sites.google.com/a/hstat.org/dorwinl3894sep11/home)  
 
