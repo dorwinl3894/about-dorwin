@@ -26,3 +26,6 @@
 ```javascript   
 console.log("Hello World!");
 ```
+
+
+![SEP Logo](logo.png)
