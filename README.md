@@ -30,6 +30,6 @@ console.log("Hello World!");
 ```
 
 
-<div style="display:flex; flex-direction: row; justify-content: center; align-items:center;">
+<div style="display:flex !important; flex-direction: row !important; justify-content: center !important; align-items:center !important;">
 <img src="https://sites.google.com/a/hstat.org/josiahe2793sep10/_/rsrc/1442438872454/home/hstatSep-logo-small.png" alt="HSTAT Logo"  >
 </div>
