@@ -30,5 +30,6 @@ console.log("Hello World!");
 ```
 
 
-![HSTAT-logo](https://sites.google.com/a/hstat.org/josiahe2793sep10/_/rsrc/1442438872454/home/hstatSep-logo-small.png)
-
+<div style="display:flex; flex-direction: row; justify-content: center; align-items:center;">
+<img src="https://sites.google.com/a/hstat.org/josiahe2793sep10/_/rsrc/1442438872454/home/hstatSep-logo-small.png" alt="HSTAT Logo"  >
+</div>
